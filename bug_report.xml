@@ -1,1 +1,43 @@
-
+{
+  "успех": истина,
+  "пользователь": {
+    "first_login": ложный,
+    "идентификатор": 431,
+    "идентификатор пользователя": 431,
+    "электронная почта": "user+city@user.com ",
+    "роль": "пользователь",
+    "имя": "город ",
+    "first_name": "пользователь",
+    "last_name": "город",
+    "фото": " https://d277bwi5aij72i.cloudfront.net/system/uploads/profile/photo/432/main_d9a436b80588908957877ae7657f83edfc106cf020160915-12802-emd3fp.jpg ",
+    "фото_2x": " https://d277bwi5aij72i.cloudfront.net/system/uploads/profile/photo/432/main_2x_d9a436b80588908957877ae7657f83edfc106cf020160915-12802-emd3fp.jpg ",
+    "фото_3x": " https://d277bwi5aij72i.cloudfront.net/system/uploads/profile/photo/432/main_3x_d9a436b80588908957877ae7657f83edfc106cf020160915-12802-emd3fp.jpg ",
+    "photo_thumb": " https://d277bwi5aij72i.cloudfront.net/system/uploads/profile/photo/432/thumb_d9a436b80588908957877ae7657f83edfc106cf020160915-12802-emd3fp.jpg ",
+    "photo_thumb_2x": " https://d277bwi5aij72i.cloudfront.net/system/uploads/profile/photo/432/thumb_2x_d9a436b80588908957877ae7657f83edfc106cf020160915-12802-emd3fp.jpg ",
+    "photo_thumb_3x": " https://d277bwi5aij72i.cloudfront.net/system/uploads/profile/photo/432/thumb_3x_d9a436b80588908957877ae7657f83edfc106cf020160915-12802-emd3fp.jpg ",
+    "биография": "биография пользователя по городу",
+    "местоположение": нулевое значение,
+    "широта": нулевое значение,
+    "долгота": нулевое значение,
+    "вид": "индивидуальный",
+    "следующее": ложь,
+    "following_status": "нет",
+    "количество подписчиков": 0,
+    <span>"число подписчиков"</span>: <span>0</span>,
+    <span>"mutuals_count"</span>: <span>0</span>,
+    <span>"is_facebook_connected"</span>: <span>false</span>,
+    <span>"is_twitter_connected"</span>: <span>false</span>,
+    <span>"icards_created_count"</span>: <span>3</span>,
+    <span>"channels_posted_count"</span>: <span>0</span>,
+    <span>"active_icards_count"</span>: <span>0</span>,
+    <span>"notifications_count"</span>: <span>0</span>,
+    <span>"настройки"</span>: {
+      <span>"идентификатор"</span>: <span>432</span>,
+      <span>"require_follower_approval"</span>: <span>верно</span>,
+      <span>"show_in_public_searches"</span>: <span>верно</span>,
+      <span>"allow_push_notifications"</span>: <span>верно</span>,
+      <span>"everyone_can_see_watching_channels"</span>: <span>верно</span>,
+      <span>"everyone_can_see_what_im_doing"</span>: <span>верно</span>
+    }
+  }
+} 
