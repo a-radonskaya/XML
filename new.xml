@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <NSF>
+    <name>Anna</name>
+    <surname>Radomskaya</surname>
+    <father_name>Valentinovna</father_name>
+  </NSF>
+  <age>37</age>
+  <pets>1</pets>
+  <desired_salary>1500</desired_salary>
+</root>
+
